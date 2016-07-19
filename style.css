@@ -17,7 +17,7 @@ button {
     border-radius: 2px;
     padding-left: 5px;
 }
-.col-sm-2.col-sm-offset-5 {
+#app-background {
     background-color: #a9a9a9;
     border-radius: 10px;
 }
